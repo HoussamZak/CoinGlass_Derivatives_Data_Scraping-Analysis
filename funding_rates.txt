@@ -1,0 +1,1789 @@
+Binance
+Trade
+dYdX
+Trade
+FTX
+BitMEX
+BTC
+-0.008009%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance BTC Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.008009" } ], "amount":[ { "@type": "MonetaryAmount", "name":"BTC Loan", "value":"1000", "currency":"BTC" } ] }
+0.00527392%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"dYdX BTC Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.00527392" } ], "amount":[ { "@type": "MonetaryAmount", "name":"BTC Loan", "value":"1000", "currency":"BTC" } ] }
+0.0024%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX BTC Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0024" } ], "amount":[ { "@type": "MonetaryAmount", "name":"BTC Loan", "value":"1000", "currency":"BTC" } ] }
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX BTC Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"BTC Loan", "value":"1000", "currency":"BTC" } ] }
+ETH
+0.004308%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance ETH Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.004308" } ], "amount":[ { "@type": "MonetaryAmount", "name":"ETH Loan", "value":"1000", "currency":"ETH" } ] }
+0.01131776%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"dYdX ETH Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01131776" } ], "amount":[ { "@type": "MonetaryAmount", "name":"ETH Loan", "value":"1000", "currency":"ETH" } ] }
+0.0088%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX ETH Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0088" } ], "amount":[ { "@type": "MonetaryAmount", "name":"ETH Loan", "value":"1000", "currency":"ETH" } ] }
+0.0614%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX ETH Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0614" } ], "amount":[ { "@type": "MonetaryAmount", "name":"ETH Loan", "value":"1000", "currency":"ETH" } ] }
+XRP
+-0.011052%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance XRP Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.011052" } ], "amount":[ { "@type": "MonetaryAmount", "name":"XRP Loan", "value":"1000", "currency":"XRP" } ] }
+–
+0.0024%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX XRP Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0024" } ], "amount":[ { "@type": "MonetaryAmount", "name":"XRP Loan", "value":"1000", "currency":"XRP" } ] }
+0.0224%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX XRP Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0224" } ], "amount":[ { "@type": "MonetaryAmount", "name":"XRP Loan", "value":"1000", "currency":"XRP" } ] }
+BCH
+-0.008622%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance BCH Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.008622" } ], "amount":[ { "@type": "MonetaryAmount", "name":"BCH Loan", "value":"1000", "currency":"BCH" } ] }
+0.010382%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"dYdX BCH Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.010382" } ], "amount":[ { "@type": "MonetaryAmount", "name":"BCH Loan", "value":"1000", "currency":"BCH" } ] }
+0.02%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX BCH Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.02" } ], "amount":[ { "@type": "MonetaryAmount", "name":"BCH Loan", "value":"1000", "currency":"BCH" } ] }
+0.0218%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX BCH Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0218" } ], "amount":[ { "@type": "MonetaryAmount", "name":"BCH Loan", "value":"1000", "currency":"BCH" } ] }
+COMP
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance COMP Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"COMP Loan", "value":"1000", "currency":"COMP" } ] }
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"dYdX COMP Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"COMP Loan", "value":"1000", "currency":"COMP" } ] }
+0.008%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX COMP Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.008" } ], "amount":[ { "@type": "MonetaryAmount", "name":"COMP Loan", "value":"1000", "currency":"COMP" } ] }
+–
+KNC
+-0.085147%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance KNC Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.085147" } ], "amount":[ { "@type": "MonetaryAmount", "name":"KNC Loan", "value":"1000", "currency":"KNC" } ] }
+–
+-0.0304%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX KNC Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0304" } ], "amount":[ { "@type": "MonetaryAmount", "name":"KNC Loan", "value":"1000", "currency":"KNC" } ] }
+–
+LINK
+0.006081%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance LINK Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.006081" } ], "amount":[ { "@type": "MonetaryAmount", "name":"LINK Loan", "value":"1000", "currency":"LINK" } ] }
+0.00657248%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"dYdX LINK Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.00657248" } ], "amount":[ { "@type": "MonetaryAmount", "name":"LINK Loan", "value":"1000", "currency":"LINK" } ] }
+0%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX LINK Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0" } ], "amount":[ { "@type": "MonetaryAmount", "name":"LINK Loan", "value":"1000", "currency":"LINK" } ] }
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX LINK Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"LINK Loan", "value":"1000", "currency":"LINK" } ] }
+XTZ
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance XTZ Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"XTZ Loan", "value":"1000", "currency":"XTZ" } ] }
+–
+0.0048%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX XTZ Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0048" } ], "amount":[ { "@type": "MonetaryAmount", "name":"XTZ Loan", "value":"1000", "currency":"XTZ" } ] }
+–
+BNB
+-0.024568%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance BNB Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.024568" } ], "amount":[ { "@type": "MonetaryAmount", "name":"BNB Loan", "value":"1000", "currency":"BNB" } ] }
+–
+-0.004%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX BNB Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.004" } ], "amount":[ { "@type": "MonetaryAmount", "name":"BNB Loan", "value":"1000", "currency":"BNB" } ] }
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX BNB Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"BNB Loan", "value":"1000", "currency":"BNB" } ] }
+LTC
+7.6E-5%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance LTC Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"7.6E-5" } ], "amount":[ { "@type": "MonetaryAmount", "name":"LTC Loan", "value":"1000", "currency":"LTC" } ] }
+-0.00283%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"dYdX LTC Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.00283" } ], "amount":[ { "@type": "MonetaryAmount", "name":"LTC Loan", "value":"1000", "currency":"LTC" } ] }
+-0.0008%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX LTC Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0008" } ], "amount":[ { "@type": "MonetaryAmount", "name":"LTC Loan", "value":"1000", "currency":"LTC" } ] }
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX LTC Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"LTC Loan", "value":"1000", "currency":"LTC" } ] }
+ETC
+-0.007879%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance ETC Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.007879" } ], "amount":[ { "@type": "MonetaryAmount", "name":"ETC Loan", "value":"1000", "currency":"ETC" } ] }
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"dYdX ETC Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"ETC Loan", "value":"1000", "currency":"ETC" } ] }
+-0.0056%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX ETC Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0056" } ], "amount":[ { "@type": "MonetaryAmount", "name":"ETC Loan", "value":"1000", "currency":"ETC" } ] }
+–
+EOS
+0.004296%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance EOS Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.004296" } ], "amount":[ { "@type": "MonetaryAmount", "name":"EOS Loan", "value":"1000", "currency":"EOS" } ] }
+0.00838096%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"dYdX EOS Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.00838096" } ], "amount":[ { "@type": "MonetaryAmount", "name":"EOS Loan", "value":"1000", "currency":"EOS" } ] }
+0.004%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX EOS Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.004" } ], "amount":[ { "@type": "MonetaryAmount", "name":"EOS Loan", "value":"1000", "currency":"EOS" } ] }
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX EOS Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"EOS Loan", "value":"1000", "currency":"EOS" } ] }
+DOGE
+0.003953%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance DOGE Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.003953" } ], "amount":[ { "@type": "MonetaryAmount", "name":"DOGE Loan", "value":"1000", "currency":"DOGE" } ] }
+0.00990096%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"dYdX DOGE Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.00990096" } ], "amount":[ { "@type": "MonetaryAmount", "name":"DOGE Loan", "value":"1000", "currency":"DOGE" } ] }
+-0.0064%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX DOGE Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0064" } ], "amount":[ { "@type": "MonetaryAmount", "name":"DOGE Loan", "value":"1000", "currency":"DOGE" } ] }
+0.0595%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX DOGE Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0595" } ], "amount":[ { "@type": "MonetaryAmount", "name":"DOGE Loan", "value":"1000", "currency":"DOGE" } ] }
+1INCH
+0.151959%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance 1INCH Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.151959" } ], "amount":[ { "@type": "MonetaryAmount", "name":"1INCH Loan", "value":"1000", "currency":"1INCH" } ] }
+0.00962712%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"dYdX 1INCH Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.00962712" } ], "amount":[ { "@type": "MonetaryAmount", "name":"1INCH Loan", "value":"1000", "currency":"1INCH" } ] }
+-0.0136%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX 1INCH Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0136" } ], "amount":[ { "@type": "MonetaryAmount", "name":"1INCH Loan", "value":"1000", "currency":"1INCH" } ] }
+–
+AAVE
+0.115395%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance AAVE Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.115395" } ], "amount":[ { "@type": "MonetaryAmount", "name":"AAVE Loan", "value":"1000", "currency":"AAVE" } ] }
+0.00992232%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"dYdX AAVE Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.00992232" } ], "amount":[ { "@type": "MonetaryAmount", "name":"AAVE Loan", "value":"1000", "currency":"AAVE" } ] }
+0.0096%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX AAVE Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0096" } ], "amount":[ { "@type": "MonetaryAmount", "name":"AAVE Loan", "value":"1000", "currency":"AAVE" } ] }
+–
+AAVET
+–
+–
+–
+0.1941%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX AAVET Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.1941" } ], "amount":[ { "@type": "MonetaryAmount", "name":"AAVET Loan", "value":"1000", "currency":"AAVET" } ] }
+ADA
+-0.010408%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance ADA Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.010408" } ], "amount":[ { "@type": "MonetaryAmount", "name":"ADA Loan", "value":"1000", "currency":"ADA" } ] }
+0.0102624%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"dYdX ADA Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0102624" } ], "amount":[ { "@type": "MonetaryAmount", "name":"ADA Loan", "value":"1000", "currency":"ADA" } ] }
+-0.0056%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX ADA Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0056" } ], "amount":[ { "@type": "MonetaryAmount", "name":"ADA Loan", "value":"1000", "currency":"ADA" } ] }
+0.0537%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX ADA Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0537" } ], "amount":[ { "@type": "MonetaryAmount", "name":"ADA Loan", "value":"1000", "currency":"ADA" } ] }
+ADAT
+–
+–
+–
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX ADAT Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"ADAT Loan", "value":"1000", "currency":"ADAT" } ] }
+AGLD
+–
+–
+-0.0072%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX AGLD Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0072" } ], "amount":[ { "@type": "MonetaryAmount", "name":"AGLD Loan", "value":"1000", "currency":"AGLD" } ] }
+–
+AKRO
+0.083221%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance AKRO Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.083221" } ], "amount":[ { "@type": "MonetaryAmount", "name":"AKRO Loan", "value":"1000", "currency":"AKRO" } ] }
+–
+–
+–
+ALCX
+–
+–
+-0.0736%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX ALCX Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0736" } ], "amount":[ { "@type": "MonetaryAmount", "name":"ALCX Loan", "value":"1000", "currency":"ALCX" } ] }
+–
+ALGO
+0.002378%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance ALGO Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.002378" } ], "amount":[ { "@type": "MonetaryAmount", "name":"ALGO Loan", "value":"1000", "currency":"ALGO" } ] }
+0.00966848%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"dYdX ALGO Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.00966848" } ], "amount":[ { "@type": "MonetaryAmount", "name":"ALGO Loan", "value":"1000", "currency":"ALGO" } ] }
+-0.0088%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX ALGO Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0088" } ], "amount":[ { "@type": "MonetaryAmount", "name":"ALGO Loan", "value":"1000", "currency":"ALGO" } ] }
+–
+ALICE
+0.021982%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance ALICE Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.021982" } ], "amount":[ { "@type": "MonetaryAmount", "name":"ALICE Loan", "value":"1000", "currency":"ALICE" } ] }
+–
+-0.0184%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX ALICE Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0184" } ], "amount":[ { "@type": "MonetaryAmount", "name":"ALICE Loan", "value":"1000", "currency":"ALICE" } ] }
+–
+ALPHA
+0.069044%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance ALPHA Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.069044" } ], "amount":[ { "@type": "MonetaryAmount", "name":"ALPHA Loan", "value":"1000", "currency":"ALPHA" } ] }
+–
+0.0064%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX ALPHA Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0064" } ], "amount":[ { "@type": "MonetaryAmount", "name":"ALPHA Loan", "value":"1000", "currency":"ALPHA" } ] }
+–
+ALTME
+–
+–
+–
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX ALTME Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"ALTME Loan", "value":"1000", "currency":"ALTME" } ] }
+ALTMEXTT
+–
+–
+–
+1.5%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX ALTMEXTT Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"1.5" } ], "amount":[ { "@type": "MonetaryAmount", "name":"ALTMEXTT Loan", "value":"1000", "currency":"ALTMEXTT" } ] }
+AMC
+–
+–
+0%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX AMC Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0" } ], "amount":[ { "@type": "MonetaryAmount", "name":"AMC Loan", "value":"1000", "currency":"AMC" } ] }
+–
+ANC
+–
+–
+-0.0256%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX ANC Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0256" } ], "amount":[ { "@type": "MonetaryAmount", "name":"ANC Loan", "value":"1000", "currency":"ANC" } ] }
+–
+ANKR
+0.144693%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance ANKR Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.144693" } ], "amount":[ { "@type": "MonetaryAmount", "name":"ANKR Loan", "value":"1000", "currency":"ANKR" } ] }
+–
+–
+–
+APE
+–
+–
+0.0024%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX APE Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0024" } ], "amount":[ { "@type": "MonetaryAmount", "name":"APE Loan", "value":"1000", "currency":"APE" } ] }
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX APE Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"APE Loan", "value":"1000", "currency":"APE" } ] }
+APET
+–
+–
+–
+0.0073%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX APET Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0073" } ], "amount":[ { "@type": "MonetaryAmount", "name":"APET Loan", "value":"1000", "currency":"APET" } ] }
+AR
+–
+–
+-0.008%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX AR Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.008" } ], "amount":[ { "@type": "MonetaryAmount", "name":"AR Loan", "value":"1000", "currency":"AR" } ] }
+–
+ASD
+–
+–
+-0.0608%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX ASD Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0608" } ], "amount":[ { "@type": "MonetaryAmount", "name":"ASD Loan", "value":"1000", "currency":"ASD" } ] }
+–
+ATLAS
+–
+–
+-0.0104%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX ATLAS Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0104" } ], "amount":[ { "@type": "MonetaryAmount", "name":"ATLAS Loan", "value":"1000", "currency":"ATLAS" } ] }
+–
+ATOM
+0.00242%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance ATOM Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.00242" } ], "amount":[ { "@type": "MonetaryAmount", "name":"ATOM Loan", "value":"1000", "currency":"ATOM" } ] }
+0.00687168%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"dYdX ATOM Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.00687168" } ], "amount":[ { "@type": "MonetaryAmount", "name":"ATOM Loan", "value":"1000", "currency":"ATOM" } ] }
+-0.02%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX ATOM Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.02" } ], "amount":[ { "@type": "MonetaryAmount", "name":"ATOM Loan", "value":"1000", "currency":"ATOM" } ] }
+–
+AUDIO
+–
+–
+-0.02%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX AUDIO Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.02" } ], "amount":[ { "@type": "MonetaryAmount", "name":"AUDIO Loan", "value":"1000", "currency":"AUDIO" } ] }
+–
+AVAX
+0.173657%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance AVAX Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.173657" } ], "amount":[ { "@type": "MonetaryAmount", "name":"AVAX Loan", "value":"1000", "currency":"AVAX" } ] }
+0.01001208%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"dYdX AVAX Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01001208" } ], "amount":[ { "@type": "MonetaryAmount", "name":"AVAX Loan", "value":"1000", "currency":"AVAX" } ] }
+-0.0024%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX AVAX Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0024" } ], "amount":[ { "@type": "MonetaryAmount", "name":"AVAX Loan", "value":"1000", "currency":"AVAX" } ] }
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX AVAX Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"AVAX Loan", "value":"1000", "currency":"AVAX" } ] }
+AVAXT
+–
+–
+–
+0.0071%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX AVAXT Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0071" } ], "amount":[ { "@type": "MonetaryAmount", "name":"AVAXT Loan", "value":"1000", "currency":"AVAXT" } ] }
+AXS
+0.15546%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance AXS Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.15546" } ], "amount":[ { "@type": "MonetaryAmount", "name":"AXS Loan", "value":"1000", "currency":"AXS" } ] }
+–
+-0.0424%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX AXS Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0424" } ], "amount":[ { "@type": "MonetaryAmount", "name":"AXS Loan", "value":"1000", "currency":"AXS" } ] }
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX AXS Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"AXS Loan", "value":"1000", "currency":"AXS" } ] }
+AXST
+–
+–
+–
+-0.0294%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX AXST Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0294" } ], "amount":[ { "@type": "MonetaryAmount", "name":"AXST Loan", "value":"1000", "currency":"AXST" } ] }
+BADGE
+–
+–
+0.0144%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX BADGE Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0144" } ], "amount":[ { "@type": "MonetaryAmount", "name":"BADGE Loan", "value":"1000", "currency":"BADGE" } ] }
+–
+BADGER
+–
+–
+-0.016%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX BADGER Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.016" } ], "amount":[ { "@type": "MonetaryAmount", "name":"BADGER Loan", "value":"1000", "currency":"BADGER" } ] }
+–
+BAO
+–
+–
+0.12%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX BAO Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.12" } ], "amount":[ { "@type": "MonetaryAmount", "name":"BAO Loan", "value":"1000", "currency":"BAO" } ] }
+–
+BAT
+-0.012184%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance BAT Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.012184" } ], "amount":[ { "@type": "MonetaryAmount", "name":"BAT Loan", "value":"1000", "currency":"BAT" } ] }
+–
+0.008%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX BAT Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.008" } ], "amount":[ { "@type": "MonetaryAmount", "name":"BAT Loan", "value":"1000", "currency":"BAT" } ] }
+–
+BCHT
+–
+–
+–
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX BCHT Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"BCHT Loan", "value":"1000", "currency":"BCHT" } ] }
+BEL
+0.008452%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance BEL Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.008452" } ], "amount":[ { "@type": "MonetaryAmount", "name":"BEL Loan", "value":"1000", "currency":"BEL" } ] }
+–
+–
+–
+BIT
+–
+–
+0.0072%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX BIT Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0072" } ], "amount":[ { "@type": "MonetaryAmount", "name":"BIT Loan", "value":"1000", "currency":"BIT" } ] }
+–
+BLZ
+-0.006982%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance BLZ Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.006982" } ], "amount":[ { "@type": "MonetaryAmount", "name":"BLZ Loan", "value":"1000", "currency":"BLZ" } ] }
+–
+–
+–
+BNBBU
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance BNBBU Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"BNBBU Loan", "value":"1000", "currency":"BNBBU" } ] }
+–
+–
+–
+BNBT
+–
+–
+–
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX BNBT Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"BNBT Loan", "value":"1000", "currency":"BNBT" } ] }
+BNT
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance BNT Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"BNT Loan", "value":"1000", "currency":"BNT" } ] }
+–
+-0.1408%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX BNT Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.1408" } ], "amount":[ { "@type": "MonetaryAmount", "name":"BNT Loan", "value":"1000", "currency":"BNT" } ] }
+–
+BOBA
+–
+–
+-0.0336%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX BOBA Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0336" } ], "amount":[ { "@type": "MonetaryAmount", "name":"BOBA Loan", "value":"1000", "currency":"BOBA" } ] }
+–
+BSV
+–
+–
+-0.028%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX BSV Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.028" } ], "amount":[ { "@type": "MonetaryAmount", "name":"BSV Loan", "value":"1000", "currency":"BSV" } ] }
+–
+BTCBU
+-0.008024%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance BTCBU Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.008024" } ], "amount":[ { "@type": "MonetaryAmount", "name":"BTCBU Loan", "value":"1000", "currency":"BTCBU" } ] }
+–
+–
+–
+BTCDO
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance BTCDO Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"BTCDO Loan", "value":"1000", "currency":"BTCDO" } ] }
+–
+–
+–
+BTCST
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance BTCST Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"BTCST Loan", "value":"1000", "currency":"BTCST" } ] }
+–
+–
+–
+BTS
+0.075661%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance BTS Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.075661" } ], "amount":[ { "@type": "MonetaryAmount", "name":"BTS Loan", "value":"1000", "currency":"BTS" } ] }
+–
+–
+–
+BTT
+0.019598%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance BTT Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.019598" } ], "amount":[ { "@type": "MonetaryAmount", "name":"BTT Loan", "value":"1000", "currency":"BTT" } ] }
+–
+-0.148%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX BTT Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.148" } ], "amount":[ { "@type": "MonetaryAmount", "name":"BTT Loan", "value":"1000", "currency":"BTT" } ] }
+–
+BZRX
+0.089926%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance BZRX Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.089926" } ], "amount":[ { "@type": "MonetaryAmount", "name":"BZRX Loan", "value":"1000", "currency":"BZRX" } ] }
+–
+–
+–
+C98
+0.067425%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance C98 Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.067425" } ], "amount":[ { "@type": "MonetaryAmount", "name":"C98 Loan", "value":"1000", "currency":"C98" } ] }
+–
+-0.0256%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX C98 Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0256" } ], "amount":[ { "@type": "MonetaryAmount", "name":"C98 Loan", "value":"1000", "currency":"C98" } ] }
+–
+CAKE
+–
+–
+-0.02%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX CAKE Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.02" } ], "amount":[ { "@type": "MonetaryAmount", "name":"CAKE Loan", "value":"1000", "currency":"CAKE" } ] }
+–
+CEL
+–
+–
+-0.0056%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX CEL Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0056" } ], "amount":[ { "@type": "MonetaryAmount", "name":"CEL Loan", "value":"1000", "currency":"CEL" } ] }
+–
+CELO
+–
+0.00942096%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"dYdX CELO Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.00942096" } ], "amount":[ { "@type": "MonetaryAmount", "name":"CELO Loan", "value":"1000", "currency":"CELO" } ] }
+0.0048%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX CELO Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0048" } ], "amount":[ { "@type": "MonetaryAmount", "name":"CELO Loan", "value":"1000", "currency":"CELO" } ] }
+–
+CELR
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance CELR Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"CELR Loan", "value":"1000", "currency":"CELR" } ] }
+–
+–
+–
+CHR
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance CHR Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"CHR Loan", "value":"1000", "currency":"CHR" } ] }
+–
+0.0088%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX CHR Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0088" } ], "amount":[ { "@type": "MonetaryAmount", "name":"CHR Loan", "value":"1000", "currency":"CHR" } ] }
+–
+CHZ
+0.017775%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance CHZ Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.017775" } ], "amount":[ { "@type": "MonetaryAmount", "name":"CHZ Loan", "value":"1000", "currency":"CHZ" } ] }
+–
+-0.0072%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX CHZ Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0072" } ], "amount":[ { "@type": "MonetaryAmount", "name":"CHZ Loan", "value":"1000", "currency":"CHZ" } ] }
+–
+CLV
+–
+–
+-0.1256%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX CLV Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.1256" } ], "amount":[ { "@type": "MonetaryAmount", "name":"CLV Loan", "value":"1000", "currency":"CLV" } ] }
+–
+CONV
+–
+–
+0.0448%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX CONV Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0448" } ], "amount":[ { "@type": "MonetaryAmount", "name":"CONV Loan", "value":"1000", "currency":"CONV" } ] }
+–
+COTI
+0.075909%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance COTI Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.075909" } ], "amount":[ { "@type": "MonetaryAmount", "name":"COTI Loan", "value":"1000", "currency":"COTI" } ] }
+–
+–
+–
+CREAM
+–
+–
+0.0176%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX CREAM Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0176" } ], "amount":[ { "@type": "MonetaryAmount", "name":"CREAM Loan", "value":"1000", "currency":"CREAM" } ] }
+–
+CRO
+–
+–
+-0.0552%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX CRO Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0552" } ], "amount":[ { "@type": "MonetaryAmount", "name":"CRO Loan", "value":"1000", "currency":"CRO" } ] }
+–
+CRV
+-0.008687%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance CRV Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.008687" } ], "amount":[ { "@type": "MonetaryAmount", "name":"CRV Loan", "value":"1000", "currency":"CRV" } ] }
+-0.00899992%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"dYdX CRV Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.00899992" } ], "amount":[ { "@type": "MonetaryAmount", "name":"CRV Loan", "value":"1000", "currency":"CRV" } ] }
+-0.0024%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX CRV Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0024" } ], "amount":[ { "@type": "MonetaryAmount", "name":"CRV Loan", "value":"1000", "currency":"CRV" } ] }
+–
+CTK
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance CTK Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"CTK Loan", "value":"1000", "currency":"CTK" } ] }
+–
+–
+–
+CTSI
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance CTSI Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"CTSI Loan", "value":"1000", "currency":"CTSI" } ] }
+–
+–
+–
+CVC
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance CVC Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"CVC Loan", "value":"1000", "currency":"CVC" } ] }
+–
+-0.004%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX CVC Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.004" } ], "amount":[ { "@type": "MonetaryAmount", "name":"CVC Loan", "value":"1000", "currency":"CVC" } ] }
+–
+CVX
+–
+–
+0.0016%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX CVX Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0016" } ], "amount":[ { "@type": "MonetaryAmount", "name":"CVX Loan", "value":"1000", "currency":"CVX" } ] }
+–
+DASH
+-0.019474%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance DASH Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.019474" } ], "amount":[ { "@type": "MonetaryAmount", "name":"DASH Loan", "value":"1000", "currency":"DASH" } ] }
+–
+0.012%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX DASH Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.012" } ], "amount":[ { "@type": "MonetaryAmount", "name":"DASH Loan", "value":"1000", "currency":"DASH" } ] }
+–
+DAWN
+–
+–
+0.0336%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX DAWN Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0336" } ], "amount":[ { "@type": "MonetaryAmount", "name":"DAWN Loan", "value":"1000", "currency":"DAWN" } ] }
+–
+DEFIM
+–
+–
+–
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX DEFIM Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"DEFIM Loan", "value":"1000", "currency":"DEFIM" } ] }
+DEFIMEXTT
+–
+–
+–
+1.5%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX DEFIMEXTT Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"1.5" } ], "amount":[ { "@type": "MonetaryAmount", "name":"DEFIMEXTT Loan", "value":"1000", "currency":"DEFIMEXTT" } ] }
+DENT
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance DENT Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"DENT Loan", "value":"1000", "currency":"DENT" } ] }
+–
+-0.0104%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX DENT Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0104" } ], "amount":[ { "@type": "MonetaryAmount", "name":"DENT Loan", "value":"1000", "currency":"DENT" } ] }
+–
+DGB
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance DGB Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"DGB Loan", "value":"1000", "currency":"DGB" } ] }
+–
+–
+–
+DODO
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance DODO Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"DODO Loan", "value":"1000", "currency":"DODO" } ] }
+–
+-0.0264%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX DODO Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0264" } ], "amount":[ { "@type": "MonetaryAmount", "name":"DODO Loan", "value":"1000", "currency":"DODO" } ] }
+–
+DOGEB
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance DOGEB Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"DOGEB Loan", "value":"1000", "currency":"DOGEB" } ] }
+–
+–
+–
+DOGEBUSD
+0.001836%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance DOGEBUSD Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.001836" } ], "amount":[ { "@type": "MonetaryAmount", "name":"DOGEBUSD Loan", "value":"1000", "currency":"DOGEBUSD" } ] }
+–
+–
+–
+DOGET
+–
+–
+–
+0.002%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX DOGET Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.002" } ], "amount":[ { "@type": "MonetaryAmount", "name":"DOGET Loan", "value":"1000", "currency":"DOGET" } ] }
+DOTT
+–
+–
+–
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX DOTT Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"DOTT Loan", "value":"1000", "currency":"DOTT" } ] }
+DRGN
+–
+–
+0.0008%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX DRGN Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0008" } ], "amount":[ { "@type": "MonetaryAmount", "name":"DRGN Loan", "value":"1000", "currency":"DRGN" } ] }
+–
+DUSK
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance DUSK Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"DUSK Loan", "value":"1000", "currency":"DUSK" } ] }
+–
+–
+–
+DYDX
+0.004939%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance DYDX Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.004939" } ], "amount":[ { "@type": "MonetaryAmount", "name":"DYDX Loan", "value":"1000", "currency":"DYDX" } ] }
+–
+-0.028%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX DYDX Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.028" } ], "amount":[ { "@type": "MonetaryAmount", "name":"DYDX Loan", "value":"1000", "currency":"DYDX" } ] }
+–
+EDEN
+–
+–
+0.0472%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX EDEN Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0472" } ], "amount":[ { "@type": "MonetaryAmount", "name":"EDEN Loan", "value":"1000", "currency":"EDEN" } ] }
+–
+EGLD
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance EGLD Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"EGLD Loan", "value":"1000", "currency":"EGLD" } ] }
+–
+0.008%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX EGLD Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.008" } ], "amount":[ { "@type": "MonetaryAmount", "name":"EGLD Loan", "value":"1000", "currency":"EGLD" } ] }
+–
+ENJ
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance ENJ Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"ENJ Loan", "value":"1000", "currency":"ENJ" } ] }
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"dYdX ENJ Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"ENJ Loan", "value":"1000", "currency":"ENJ" } ] }
+0.0208%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX ENJ Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0208" } ], "amount":[ { "@type": "MonetaryAmount", "name":"ENJ Loan", "value":"1000", "currency":"ENJ" } ] }
+–
+ENS
+-0.000147%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance ENS Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.000147" } ], "amount":[ { "@type": "MonetaryAmount", "name":"ENS Loan", "value":"1000", "currency":"ENS" } ] }
+–
+0.0104%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX ENS Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0104" } ], "amount":[ { "@type": "MonetaryAmount", "name":"ENS Loan", "value":"1000", "currency":"ENS" } ] }
+–
+EOST
+–
+–
+–
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX EOST Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"EOST Loan", "value":"1000", "currency":"EOST" } ] }
+ETHBU
+0.003812%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance ETHBU Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.003812" } ], "amount":[ { "@type": "MonetaryAmount", "name":"ETHBU Loan", "value":"1000", "currency":"ETHBU" } ] }
+–
+–
+–
+ETHBUSD
+0.002698%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance ETHBUSD Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.002698" } ], "amount":[ { "@type": "MonetaryAmount", "name":"ETHBUSD Loan", "value":"1000", "currency":"ETHBUSD" } ] }
+–
+–
+–
+ETHT
+–
+–
+–
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX ETHT Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"ETHT Loan", "value":"1000", "currency":"ETHT" } ] }
+FIDA
+–
+–
+-0.0936%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX FIDA Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0936" } ], "amount":[ { "@type": "MonetaryAmount", "name":"FIDA Loan", "value":"1000", "currency":"FIDA" } ] }
+–
+FIL
+-0.013886%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance FIL Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.013886" } ], "amount":[ { "@type": "MonetaryAmount", "name":"FIL Loan", "value":"1000", "currency":"FIL" } ] }
+0.00768768%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"dYdX FIL Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.00768768" } ], "amount":[ { "@type": "MonetaryAmount", "name":"FIL Loan", "value":"1000", "currency":"FIL" } ] }
+-0.0104%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX FIL Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0104" } ], "amount":[ { "@type": "MonetaryAmount", "name":"FIL Loan", "value":"1000", "currency":"FIL" } ] }
+–
+FILT
+–
+–
+–
+0.0644%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX FILT Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0644" } ], "amount":[ { "@type": "MonetaryAmount", "name":"FILT Loan", "value":"1000", "currency":"FILT" } ] }
+FLM
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance FLM Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"FLM Loan", "value":"1000", "currency":"FLM" } ] }
+–
+0.0176%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX FLM Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0176" } ], "amount":[ { "@type": "MonetaryAmount", "name":"FLM Loan", "value":"1000", "currency":"FLM" } ] }
+–
+FLOW
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance FLOW Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"FLOW Loan", "value":"1000", "currency":"FLOW" } ] }
+–
+0.0008%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX FLOW Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0008" } ], "amount":[ { "@type": "MonetaryAmount", "name":"FLOW Loan", "value":"1000", "currency":"FLOW" } ] }
+–
+FTM
+-0.002952%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance FTM Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.002952" } ], "amount":[ { "@type": "MonetaryAmount", "name":"FTM Loan", "value":"1000", "currency":"FTM" } ] }
+–
+-0.004%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX FTM Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.004" } ], "amount":[ { "@type": "MonetaryAmount", "name":"FTM Loan", "value":"1000", "currency":"FTM" } ] }
+–
+FTMT
+–
+–
+–
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX FTMT Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"FTMT Loan", "value":"1000", "currency":"FTMT" } ] }
+FTT
+-0.029708%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance FTT Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.029708" } ], "amount":[ { "@type": "MonetaryAmount", "name":"FTT Loan", "value":"1000", "currency":"FTT" } ] }
+–
+-0.0096%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX FTT Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0096" } ], "amount":[ { "@type": "MonetaryAmount", "name":"FTT Loan", "value":"1000", "currency":"FTT" } ] }
+–
+FTTBU
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance FTTBU Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"FTTBU Loan", "value":"1000", "currency":"FTTBU" } ] }
+–
+–
+–
+FTTBUSD
+-0.013258%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance FTTBUSD Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.013258" } ], "amount":[ { "@type": "MonetaryAmount", "name":"FTTBUSD Loan", "value":"1000", "currency":"FTTBUSD" } ] }
+–
+–
+–
+FXS
+–
+–
+0.0096%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX FXS Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0096" } ], "amount":[ { "@type": "MonetaryAmount", "name":"FXS Loan", "value":"1000", "currency":"FXS" } ] }
+–
+GAL
+-0.02183%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance GAL Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.02183" } ], "amount":[ { "@type": "MonetaryAmount", "name":"GAL Loan", "value":"1000", "currency":"GAL" } ] }
+–
+-0.0192%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX GAL Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0192" } ], "amount":[ { "@type": "MonetaryAmount", "name":"GAL Loan", "value":"1000", "currency":"GAL" } ] }
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX GAL Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"GAL Loan", "value":"1000", "currency":"GAL" } ] }
+GALA
+0.003864%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance GALA Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.003864" } ], "amount":[ { "@type": "MonetaryAmount", "name":"GALA Loan", "value":"1000", "currency":"GALA" } ] }
+–
+-0.004%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX GALA Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.004" } ], "amount":[ { "@type": "MonetaryAmount", "name":"GALA Loan", "value":"1000", "currency":"GALA" } ] }
+–
+GALT
+–
+–
+–
+-0.0542%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX GALT Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0542" } ], "amount":[ { "@type": "MonetaryAmount", "name":"GALT Loan", "value":"1000", "currency":"GALT" } ] }
+GLMR
+–
+–
+-0.0216%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX GLMR Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0216" } ], "amount":[ { "@type": "MonetaryAmount", "name":"GLMR Loan", "value":"1000", "currency":"GLMR" } ] }
+–
+GMT
+-0.01862%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance GMT Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.01862" } ], "amount":[ { "@type": "MonetaryAmount", "name":"GMT Loan", "value":"1000", "currency":"GMT" } ] }
+–
+-0.0216%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX GMT Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0216" } ], "amount":[ { "@type": "MonetaryAmount", "name":"GMT Loan", "value":"1000", "currency":"GMT" } ] }
+-0.0148%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX GMT Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0148" } ], "amount":[ { "@type": "MonetaryAmount", "name":"GMT Loan", "value":"1000", "currency":"GMT" } ] }
+GMTBUSD
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance GMTBUSD Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"GMTBUSD Loan", "value":"1000", "currency":"GMTBUSD" } ] }
+–
+–
+–
+GMTT
+–
+–
+–
+-0.1444%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX GMTT Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.1444" } ], "amount":[ { "@type": "MonetaryAmount", "name":"GMTT Loan", "value":"1000", "currency":"GMTT" } ] }
+GRT
+0.007388%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance GRT Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.007388" } ], "amount":[ { "@type": "MonetaryAmount", "name":"GRT Loan", "value":"1000", "currency":"GRT" } ] }
+–
+-0.004%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX GRT Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.004" } ], "amount":[ { "@type": "MonetaryAmount", "name":"GRT Loan", "value":"1000", "currency":"GRT" } ] }
+–
+GST
+–
+–
+-0.1904%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX GST Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.1904" } ], "amount":[ { "@type": "MonetaryAmount", "name":"GST Loan", "value":"1000", "currency":"GST" } ] }
+–
+GTC
+-0.013659%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance GTC Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.013659" } ], "amount":[ { "@type": "MonetaryAmount", "name":"GTC Loan", "value":"1000", "currency":"GTC" } ] }
+–
+–
+–
+HBAR
+0.005915%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance HBAR Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.005915" } ], "amount":[ { "@type": "MonetaryAmount", "name":"HBAR Loan", "value":"1000", "currency":"HBAR" } ] }
+–
+-0.0016%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX HBAR Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0016" } ], "amount":[ { "@type": "MonetaryAmount", "name":"HBAR Loan", "value":"1000", "currency":"HBAR" } ] }
+–
+HNT
+-0.037517%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance HNT Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.037517" } ], "amount":[ { "@type": "MonetaryAmount", "name":"HNT Loan", "value":"1000", "currency":"HNT" } ] }
+–
+-0.0104%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX HNT Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0104" } ], "amount":[ { "@type": "MonetaryAmount", "name":"HNT Loan", "value":"1000", "currency":"HNT" } ] }
+–
+HOLY
+–
+–
+0.2976%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX HOLY Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.2976" } ], "amount":[ { "@type": "MonetaryAmount", "name":"HOLY Loan", "value":"1000", "currency":"HOLY" } ] }
+–
+HOT
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance HOT Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"HOT Loan", "value":"1000", "currency":"HOT" } ] }
+–
+0.0112%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX HOT Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0112" } ], "amount":[ { "@type": "MonetaryAmount", "name":"HOT Loan", "value":"1000", "currency":"HOT" } ] }
+–
+HT
+–
+–
+-0.024%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX HT Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.024" } ], "amount":[ { "@type": "MonetaryAmount", "name":"HT Loan", "value":"1000", "currency":"HT" } ] }
+–
+HUM
+–
+–
+-0.0184%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX HUM Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0184" } ], "amount":[ { "@type": "MonetaryAmount", "name":"HUM Loan", "value":"1000", "currency":"HUM" } ] }
+–
+ICP
+0.004379%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance ICP Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.004379" } ], "amount":[ { "@type": "MonetaryAmount", "name":"ICP Loan", "value":"1000", "currency":"ICP" } ] }
+0.00979%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"dYdX ICP Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.00979" } ], "amount":[ { "@type": "MonetaryAmount", "name":"ICP Loan", "value":"1000", "currency":"ICP" } ] }
+0%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX ICP Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0" } ], "amount":[ { "@type": "MonetaryAmount", "name":"ICP Loan", "value":"1000", "currency":"ICP" } ] }
+–
+ICX
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance ICX Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"ICX Loan", "value":"1000", "currency":"ICX" } ] }
+–
+0.0192%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX ICX Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0192" } ], "amount":[ { "@type": "MonetaryAmount", "name":"ICX Loan", "value":"1000", "currency":"ICX" } ] }
+–
+IMX
+-0.001476%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance IMX Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.001476" } ], "amount":[ { "@type": "MonetaryAmount", "name":"IMX Loan", "value":"1000", "currency":"IMX" } ] }
+–
+0.0168%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX IMX Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0168" } ], "amount":[ { "@type": "MonetaryAmount", "name":"IMX Loan", "value":"1000", "currency":"IMX" } ] }
+–
+IOST
+-0.011747%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance IOST Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.011747" } ], "amount":[ { "@type": "MonetaryAmount", "name":"IOST Loan", "value":"1000", "currency":"IOST" } ] }
+–
+-0.0304%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX IOST Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0304" } ], "amount":[ { "@type": "MonetaryAmount", "name":"IOST Loan", "value":"1000", "currency":"IOST" } ] }
+–
+IOTA
+-0.02312%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance IOTA Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.02312" } ], "amount":[ { "@type": "MonetaryAmount", "name":"IOTA Loan", "value":"1000", "currency":"IOTA" } ] }
+–
+-0.0128%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX IOTA Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0128" } ], "amount":[ { "@type": "MonetaryAmount", "name":"IOTA Loan", "value":"1000", "currency":"IOTA" } ] }
+–
+IOTX
+-0.020406%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance IOTX Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.020406" } ], "amount":[ { "@type": "MonetaryAmount", "name":"IOTX Loan", "value":"1000", "currency":"IOTX" } ] }
+–
+–
+–
+JASMY
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance JASMY Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"JASMY Loan", "value":"1000", "currency":"JASMY" } ] }
+–
+0.0008%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX JASMY Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0008" } ], "amount":[ { "@type": "MonetaryAmount", "name":"JASMY Loan", "value":"1000", "currency":"JASMY" } ] }
+–
+KBTT
+–
+–
+0.2192%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX KBTT Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.2192" } ], "amount":[ { "@type": "MonetaryAmount", "name":"KBTT Loan", "value":"1000", "currency":"KBTT" } ] }
+–
+KEEP
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance KEEP Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"KEEP Loan", "value":"1000", "currency":"KEEP" } ] }
+–
+–
+–
+KIN
+–
+–
+0.0312%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX KIN Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0312" } ], "amount":[ { "@type": "MonetaryAmount", "name":"KIN Loan", "value":"1000", "currency":"KIN" } ] }
+–
+KLAY
+-0.011133%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance KLAY Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.011133" } ], "amount":[ { "@type": "MonetaryAmount", "name":"KLAY Loan", "value":"1000", "currency":"KLAY" } ] }
+–
+–
+–
+KSHIB
+–
+–
+0.0048%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX KSHIB Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0048" } ], "amount":[ { "@type": "MonetaryAmount", "name":"KSHIB Loan", "value":"1000", "currency":"KSHIB" } ] }
+–
+KSM
+0.009079%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance KSM Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.009079" } ], "amount":[ { "@type": "MonetaryAmount", "name":"KSM Loan", "value":"1000", "currency":"KSM" } ] }
+–
+0.0128%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX KSM Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0128" } ], "amount":[ { "@type": "MonetaryAmount", "name":"KSM Loan", "value":"1000", "currency":"KSM" } ] }
+–
+KSOS
+–
+–
+-0.06%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX KSOS Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.06" } ], "amount":[ { "@type": "MonetaryAmount", "name":"KSOS Loan", "value":"1000", "currency":"KSOS" } ] }
+–
+LEND
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance LEND Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"LEND Loan", "value":"1000", "currency":"LEND" } ] }
+–
+0.004%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX LEND Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.004" } ], "amount":[ { "@type": "MonetaryAmount", "name":"LEND Loan", "value":"1000", "currency":"LEND" } ] }
+–
+LEO
+–
+–
+-0.1016%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX LEO Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.1016" } ], "amount":[ { "@type": "MonetaryAmount", "name":"LEO Loan", "value":"1000", "currency":"LEO" } ] }
+–
+LINA
+-0.024393%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance LINA Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.024393" } ], "amount":[ { "@type": "MonetaryAmount", "name":"LINA Loan", "value":"1000", "currency":"LINA" } ] }
+–
+-0.0184%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX LINA Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0184" } ], "amount":[ { "@type": "MonetaryAmount", "name":"LINA Loan", "value":"1000", "currency":"LINA" } ] }
+–
+LINKT
+–
+–
+–
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX LINKT Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"LINKT Loan", "value":"1000", "currency":"LINKT" } ] }
+LIT
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance LIT Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"LIT Loan", "value":"1000", "currency":"LIT" } ] }
+–
+–
+–
+LOOKS
+–
+–
+-0.0576%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX LOOKS Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0576" } ], "amount":[ { "@type": "MonetaryAmount", "name":"LOOKS Loan", "value":"1000", "currency":"LOOKS" } ] }
+–
+LPT
+-0.016439%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance LPT Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.016439" } ], "amount":[ { "@type": "MonetaryAmount", "name":"LPT Loan", "value":"1000", "currency":"LPT" } ] }
+–
+–
+–
+LRC
+0.002586%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance LRC Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.002586" } ], "amount":[ { "@type": "MonetaryAmount", "name":"LRC Loan", "value":"1000", "currency":"LRC" } ] }
+–
+-0.0104%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX LRC Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0104" } ], "amount":[ { "@type": "MonetaryAmount", "name":"LRC Loan", "value":"1000", "currency":"LRC" } ] }
+–
+LTCT
+–
+–
+–
+-0.0436%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX LTCT Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0436" } ], "amount":[ { "@type": "MonetaryAmount", "name":"LTCT Loan", "value":"1000", "currency":"LTCT" } ] }
+LUNA
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance LUNA Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"LUNA Loan", "value":"1000", "currency":"LUNA" } ] }
+0%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"dYdX LUNA Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0" } ], "amount":[ { "@type": "MonetaryAmount", "name":"LUNA Loan", "value":"1000", "currency":"LUNA" } ] }
+-14.4832%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX LUNA Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-14.4832" } ], "amount":[ { "@type": "MonetaryAmount", "name":"LUNA Loan", "value":"1000", "currency":"LUNA" } ] }
+1.875%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX LUNA Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"1.875" } ], "amount":[ { "@type": "MonetaryAmount", "name":"LUNA Loan", "value":"1000", "currency":"LUNA" } ] }
+LUNABUSD
+-2.499998%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance LUNABUSD Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-2.499998" } ], "amount":[ { "@type": "MonetaryAmount", "name":"LUNABUSD Loan", "value":"1000", "currency":"LUNABUSD" } ] }
+–
+–
+–
+LUNAT
+–
+–
+–
+1.875%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX LUNAT Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"1.875" } ], "amount":[ { "@type": "MonetaryAmount", "name":"LUNAT Loan", "value":"1000", "currency":"LUNAT" } ] }
+MANA
+-0.017668%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance MANA Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.017668" } ], "amount":[ { "@type": "MonetaryAmount", "name":"MANA Loan", "value":"1000", "currency":"MANA" } ] }
+–
+-0.0144%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX MANA Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0144" } ], "amount":[ { "@type": "MonetaryAmount", "name":"MANA Loan", "value":"1000", "currency":"MANA" } ] }
+–
+MANAT
+–
+–
+–
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX MANAT Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"MANAT Loan", "value":"1000", "currency":"MANAT" } ] }
+MAPS
+–
+–
+-0.1016%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX MAPS Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.1016" } ], "amount":[ { "@type": "MonetaryAmount", "name":"MAPS Loan", "value":"1000", "currency":"MAPS" } ] }
+–
+MASK
+0.004757%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance MASK Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.004757" } ], "amount":[ { "@type": "MonetaryAmount", "name":"MASK Loan", "value":"1000", "currency":"MASK" } ] }
+–
+–
+–
+MATIC
+0.006263%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance MATIC Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.006263" } ], "amount":[ { "@type": "MonetaryAmount", "name":"MATIC Loan", "value":"1000", "currency":"MATIC" } ] }
+0.00825672%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"dYdX MATIC Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.00825672" } ], "amount":[ { "@type": "MonetaryAmount", "name":"MATIC Loan", "value":"1000", "currency":"MATIC" } ] }
+0.0056%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX MATIC Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0056" } ], "amount":[ { "@type": "MonetaryAmount", "name":"MATIC Loan", "value":"1000", "currency":"MATIC" } ] }
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX MATIC Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"MATIC Loan", "value":"1000", "currency":"MATIC" } ] }
+MATICT
+–
+–
+–
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX MATICT Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"MATICT Loan", "value":"1000", "currency":"MATICT" } ] }
+MCB
+–
+–
+0.0656%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX MCB Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0656" } ], "amount":[ { "@type": "MonetaryAmount", "name":"MCB Loan", "value":"1000", "currency":"MCB" } ] }
+–
+MEDIA
+–
+–
+-0.0768%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX MEDIA Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0768" } ], "amount":[ { "@type": "MonetaryAmount", "name":"MEDIA Loan", "value":"1000", "currency":"MEDIA" } ] }
+–
+MER
+–
+–
+-0.1688%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX MER Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.1688" } ], "amount":[ { "@type": "MonetaryAmount", "name":"MER Loan", "value":"1000", "currency":"MER" } ] }
+–
+METAM
+–
+–
+–
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX METAM Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"METAM Loan", "value":"1000", "currency":"METAM" } ] }
+METAMEXTT
+–
+–
+–
+-0.8071%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX METAMEXTT Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.8071" } ], "amount":[ { "@type": "MonetaryAmount", "name":"METAMEXTT Loan", "value":"1000", "currency":"METAMEXTT" } ] }
+MINA
+–
+–
+0.04%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX MINA Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.04" } ], "amount":[ { "@type": "MonetaryAmount", "name":"MINA Loan", "value":"1000", "currency":"MINA" } ] }
+–
+MKR
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance MKR Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"MKR Loan", "value":"1000", "currency":"MKR" } ] }
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"dYdX MKR Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"MKR Loan", "value":"1000", "currency":"MKR" } ] }
+0.0096%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX MKR Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0096" } ], "amount":[ { "@type": "MonetaryAmount", "name":"MKR Loan", "value":"1000", "currency":"MKR" } ] }
+–
+MNGO
+–
+–
+-0.008%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX MNGO Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.008" } ], "amount":[ { "@type": "MonetaryAmount", "name":"MNGO Loan", "value":"1000", "currency":"MNGO" } ] }
+–
+MOB
+–
+–
+0.0192%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX MOB Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0192" } ], "amount":[ { "@type": "MonetaryAmount", "name":"MOB Loan", "value":"1000", "currency":"MOB" } ] }
+–
+MTL
+-0.061186%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance MTL Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.061186" } ], "amount":[ { "@type": "MonetaryAmount", "name":"MTL Loan", "value":"1000", "currency":"MTL" } ] }
+–
+-0.0288%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX MTL Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0288" } ], "amount":[ { "@type": "MonetaryAmount", "name":"MTL Loan", "value":"1000", "currency":"MTL" } ] }
+–
+MVDA1
+–
+–
+-0.004%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX MVDA1 Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.004" } ], "amount":[ { "@type": "MonetaryAmount", "name":"MVDA1 Loan", "value":"1000", "currency":"MVDA1" } ] }
+–
+MVDA10
+–
+–
+0.0312%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX MVDA10 Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0312" } ], "amount":[ { "@type": "MonetaryAmount", "name":"MVDA10 Loan", "value":"1000", "currency":"MVDA10" } ] }
+–
+MVDA2
+–
+–
+-0.0272%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX MVDA2 Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0272" } ], "amount":[ { "@type": "MonetaryAmount", "name":"MVDA2 Loan", "value":"1000", "currency":"MVDA2" } ] }
+–
+MVDA25
+–
+–
+0.012%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX MVDA25 Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.012" } ], "amount":[ { "@type": "MonetaryAmount", "name":"MVDA25 Loan", "value":"1000", "currency":"MVDA25" } ] }
+–
+NEAR
+-0.016246%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance NEAR Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.016246" } ], "amount":[ { "@type": "MonetaryAmount", "name":"NEAR Loan", "value":"1000", "currency":"NEAR" } ] }
+0.00652888%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"dYdX NEAR Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.00652888" } ], "amount":[ { "@type": "MonetaryAmount", "name":"NEAR Loan", "value":"1000", "currency":"NEAR" } ] }
+-0.012%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX NEAR Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.012" } ], "amount":[ { "@type": "MonetaryAmount", "name":"NEAR Loan", "value":"1000", "currency":"NEAR" } ] }
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX NEAR Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"NEAR Loan", "value":"1000", "currency":"NEAR" } ] }
+NEARBUSD
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance NEARBUSD Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"NEARBUSD Loan", "value":"1000", "currency":"NEARBUSD" } ] }
+–
+–
+–
+NEART
+–
+–
+–
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX NEART Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"NEART Loan", "value":"1000", "currency":"NEART" } ] }
+NEO
+0.008725%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance NEO Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.008725" } ], "amount":[ { "@type": "MonetaryAmount", "name":"NEO Loan", "value":"1000", "currency":"NEO" } ] }
+–
+-0.0136%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX NEO Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0136" } ], "amount":[ { "@type": "MonetaryAmount", "name":"NEO Loan", "value":"1000", "currency":"NEO" } ] }
+–
+NKN
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance NKN Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"NKN Loan", "value":"1000", "currency":"NKN" } ] }
+–
+–
+–
+NPXS
+–
+–
+-3.1072%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX NPXS Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-3.1072" } ], "amount":[ { "@type": "MonetaryAmount", "name":"NPXS Loan", "value":"1000", "currency":"NPXS" } ] }
+–
+NU
+-0.231514%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance NU Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.231514" } ], "amount":[ { "@type": "MonetaryAmount", "name":"NU Loan", "value":"1000", "currency":"NU" } ] }
+–
+–
+–
+OCEAN
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance OCEAN Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"OCEAN Loan", "value":"1000", "currency":"OCEAN" } ] }
+–
+–
+–
+OGN
+0.002975%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance OGN Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.002975" } ], "amount":[ { "@type": "MonetaryAmount", "name":"OGN Loan", "value":"1000", "currency":"OGN" } ] }
+–
+–
+–
+OKB
+–
+–
+0.0064%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX OKB Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0064" } ], "amount":[ { "@type": "MonetaryAmount", "name":"OKB Loan", "value":"1000", "currency":"OKB" } ] }
+–
+OMG
+0.005628%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance OMG Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.005628" } ], "amount":[ { "@type": "MonetaryAmount", "name":"OMG Loan", "value":"1000", "currency":"OMG" } ] }
+–
+0.008%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX OMG Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.008" } ], "amount":[ { "@type": "MonetaryAmount", "name":"OMG Loan", "value":"1000", "currency":"OMG" } ] }
+–
+ONE
+-0.012154%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance ONE Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.012154" } ], "amount":[ { "@type": "MonetaryAmount", "name":"ONE Loan", "value":"1000", "currency":"ONE" } ] }
+–
+-0.0096%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX ONE Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0096" } ], "amount":[ { "@type": "MonetaryAmount", "name":"ONE Loan", "value":"1000", "currency":"ONE" } ] }
+–
+ONT
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance ONT Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"ONT Loan", "value":"1000", "currency":"ONT" } ] }
+–
+0.0016%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX ONT Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0016" } ], "amount":[ { "@type": "MonetaryAmount", "name":"ONT Loan", "value":"1000", "currency":"ONT" } ] }
+–
+ORBS
+–
+–
+0.0032%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX ORBS Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0032" } ], "amount":[ { "@type": "MonetaryAmount", "name":"ORBS Loan", "value":"1000", "currency":"ORBS" } ] }
+–
+OXY
+–
+–
+-0.2392%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX OXY Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.2392" } ], "amount":[ { "@type": "MonetaryAmount", "name":"OXY Loan", "value":"1000", "currency":"OXY" } ] }
+–
+PAXG
+–
+–
+0.0304%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX PAXG Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0304" } ], "amount":[ { "@type": "MonetaryAmount", "name":"PAXG Loan", "value":"1000", "currency":"PAXG" } ] }
+–
+PEOPL
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance PEOPL Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"PEOPL Loan", "value":"1000", "currency":"PEOPL" } ] }
+–
+-0.0072%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX PEOPL Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0072" } ], "amount":[ { "@type": "MonetaryAmount", "name":"PEOPL Loan", "value":"1000", "currency":"PEOPL" } ] }
+–
+PEOPLE
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance PEOPLE Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"PEOPLE Loan", "value":"1000", "currency":"PEOPLE" } ] }
+–
+-0.0896%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX PEOPLE Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0896" } ], "amount":[ { "@type": "MonetaryAmount", "name":"PEOPLE Loan", "value":"1000", "currency":"PEOPLE" } ] }
+–
+PERP
+–
+–
+-0.34%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX PERP Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.34" } ], "amount":[ { "@type": "MonetaryAmount", "name":"PERP Loan", "value":"1000", "currency":"PERP" } ] }
+–
+POLIS
+–
+–
+0.0136%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX POLIS Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0136" } ], "amount":[ { "@type": "MonetaryAmount", "name":"POLIS Loan", "value":"1000", "currency":"POLIS" } ] }
+–
+PROM
+–
+–
+0.0128%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX PROM Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0128" } ], "amount":[ { "@type": "MonetaryAmount", "name":"PROM Loan", "value":"1000", "currency":"PROM" } ] }
+–
+PUNDI
+–
+–
+-0.116%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX PUNDI Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.116" } ], "amount":[ { "@type": "MonetaryAmount", "name":"PUNDI Loan", "value":"1000", "currency":"PUNDI" } ] }
+–
+PUNDIX
+–
+–
+-0.0888%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX PUNDIX Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0888" } ], "amount":[ { "@type": "MonetaryAmount", "name":"PUNDIX Loan", "value":"1000", "currency":"PUNDIX" } ] }
+–
+QTUM
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance QTUM Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"QTUM Loan", "value":"1000", "currency":"QTUM" } ] }
+–
+-0.0072%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX QTUM Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0072" } ], "amount":[ { "@type": "MonetaryAmount", "name":"QTUM Loan", "value":"1000", "currency":"QTUM" } ] }
+–
+RAMP
+–
+–
+0.0256%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX RAMP Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0256" } ], "amount":[ { "@type": "MonetaryAmount", "name":"RAMP Loan", "value":"1000", "currency":"RAMP" } ] }
+–
+RAY
+-0.01372%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance RAY Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.01372" } ], "amount":[ { "@type": "MonetaryAmount", "name":"RAY Loan", "value":"1000", "currency":"RAY" } ] }
+–
+-0.0024%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX RAY Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0024" } ], "amount":[ { "@type": "MonetaryAmount", "name":"RAY Loan", "value":"1000", "currency":"RAY" } ] }
+–
+REEF
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance REEF Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"REEF Loan", "value":"1000", "currency":"REEF" } ] }
+–
+0.0376%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX REEF Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0376" } ], "amount":[ { "@type": "MonetaryAmount", "name":"REEF Loan", "value":"1000", "currency":"REEF" } ] }
+–
+REN
+-0.018539%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance REN Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.018539" } ], "amount":[ { "@type": "MonetaryAmount", "name":"REN Loan", "value":"1000", "currency":"REN" } ] }
+–
+-0.0072%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX REN Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0072" } ], "amount":[ { "@type": "MonetaryAmount", "name":"REN Loan", "value":"1000", "currency":"REN" } ] }
+–
+RNDR
+–
+–
+-0.0544%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX RNDR Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0544" } ], "amount":[ { "@type": "MonetaryAmount", "name":"RNDR Loan", "value":"1000", "currency":"RNDR" } ] }
+–
+RON
+–
+–
+0.2024%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX RON Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.2024" } ], "amount":[ { "@type": "MonetaryAmount", "name":"RON Loan", "value":"1000", "currency":"RON" } ] }
+–
+ROOK
+–
+–
+0.0168%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX ROOK Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0168" } ], "amount":[ { "@type": "MonetaryAmount", "name":"ROOK Loan", "value":"1000", "currency":"ROOK" } ] }
+–
+ROSE
+-0.005989%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance ROSE Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.005989" } ], "amount":[ { "@type": "MonetaryAmount", "name":"ROSE Loan", "value":"1000", "currency":"ROSE" } ] }
+–
+-0.0184%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX ROSE Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0184" } ], "amount":[ { "@type": "MonetaryAmount", "name":"ROSE Loan", "value":"1000", "currency":"ROSE" } ] }
+–
+RSR
+-0.000803%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance RSR Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.000803" } ], "amount":[ { "@type": "MonetaryAmount", "name":"RSR Loan", "value":"1000", "currency":"RSR" } ] }
+–
+-0.0208%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX RSR Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0208" } ], "amount":[ { "@type": "MonetaryAmount", "name":"RSR Loan", "value":"1000", "currency":"RSR" } ] }
+–
+RVN
+-0.033557%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance RVN Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.033557" } ], "amount":[ { "@type": "MonetaryAmount", "name":"RVN Loan", "value":"1000", "currency":"RVN" } ] }
+–
+–
+–
+SAND
+-0.00154%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance SAND Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.00154" } ], "amount":[ { "@type": "MonetaryAmount", "name":"SAND Loan", "value":"1000", "currency":"SAND" } ] }
+–
+-0.0096%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX SAND Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0096" } ], "amount":[ { "@type": "MonetaryAmount", "name":"SAND Loan", "value":"1000", "currency":"SAND" } ] }
+–
+SANDT
+–
+–
+–
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX SANDT Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"SANDT Loan", "value":"1000", "currency":"SANDT" } ] }
+SC
+-0.013593%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance SC Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.013593" } ], "amount":[ { "@type": "MonetaryAmount", "name":"SC Loan", "value":"1000", "currency":"SC" } ] }
+–
+-0.0272%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX SC Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0272" } ], "amount":[ { "@type": "MonetaryAmount", "name":"SC Loan", "value":"1000", "currency":"SC" } ] }
+–
+SCRT
+–
+–
+-0.0824%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX SCRT Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0824" } ], "amount":[ { "@type": "MonetaryAmount", "name":"SCRT Loan", "value":"1000", "currency":"SCRT" } ] }
+–
+SECO
+–
+–
+-0.0864%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX SECO Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0864" } ], "amount":[ { "@type": "MonetaryAmount", "name":"SECO Loan", "value":"1000", "currency":"SECO" } ] }
+–
+SFP
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance SFP Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"SFP Loan", "value":"1000", "currency":"SFP" } ] }
+–
+–
+–
+SHIB
+–
+–
+-0.004%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX SHIB Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.004" } ], "amount":[ { "@type": "MonetaryAmount", "name":"SHIB Loan", "value":"1000", "currency":"SHIB" } ] }
+–
+SHIBT
+–
+–
+–
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX SHIBT Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"SHIBT Loan", "value":"1000", "currency":"SHIBT" } ] }
+SKL
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance SKL Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"SKL Loan", "value":"1000", "currency":"SKL" } ] }
+–
+0.0016%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX SKL Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0016" } ], "amount":[ { "@type": "MonetaryAmount", "name":"SKL Loan", "value":"1000", "currency":"SKL" } ] }
+–
+SLP
+–
+–
+0.0104%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX SLP Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0104" } ], "amount":[ { "@type": "MonetaryAmount", "name":"SLP Loan", "value":"1000", "currency":"SLP" } ] }
+–
+SNX
+-0.015087%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance SNX Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.015087" } ], "amount":[ { "@type": "MonetaryAmount", "name":"SNX Loan", "value":"1000", "currency":"SNX" } ] }
+-0.01682496%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"dYdX SNX Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.01682496" } ], "amount":[ { "@type": "MonetaryAmount", "name":"SNX Loan", "value":"1000", "currency":"SNX" } ] }
+-0.0304%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX SNX Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0304" } ], "amount":[ { "@type": "MonetaryAmount", "name":"SNX Loan", "value":"1000", "currency":"SNX" } ] }
+–
+SOL
+0.000462%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance SOL Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.000462" } ], "amount":[ { "@type": "MonetaryAmount", "name":"SOL Loan", "value":"1000", "currency":"SOL" } ] }
+0.01365928%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"dYdX SOL Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01365928" } ], "amount":[ { "@type": "MonetaryAmount", "name":"SOL Loan", "value":"1000", "currency":"SOL" } ] }
+0.0008%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX SOL Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0008" } ], "amount":[ { "@type": "MonetaryAmount", "name":"SOL Loan", "value":"1000", "currency":"SOL" } ] }
+0.0671%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX SOL Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0671" } ], "amount":[ { "@type": "MonetaryAmount", "name":"SOL Loan", "value":"1000", "currency":"SOL" } ] }
+SOLBU
+-0.002965%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance SOLBU Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.002965" } ], "amount":[ { "@type": "MonetaryAmount", "name":"SOLBU Loan", "value":"1000", "currency":"SOLBU" } ] }
+–
+–
+–
+SOLBUSD
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance SOLBUSD Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"SOLBUSD Loan", "value":"1000", "currency":"SOLBUSD" } ] }
+–
+–
+–
+SOLT
+–
+–
+–
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX SOLT Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"SOLT Loan", "value":"1000", "currency":"SOLT" } ] }
+SOS
+–
+–
+-0.0736%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX SOS Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0736" } ], "amount":[ { "@type": "MonetaryAmount", "name":"SOS Loan", "value":"1000", "currency":"SOS" } ] }
+–
+SPELL
+–
+–
+-0.032%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX SPELL Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.032" } ], "amount":[ { "@type": "MonetaryAmount", "name":"SPELL Loan", "value":"1000", "currency":"SPELL" } ] }
+–
+SRM
+-0.047319%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance SRM Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.047319" } ], "amount":[ { "@type": "MonetaryAmount", "name":"SRM Loan", "value":"1000", "currency":"SRM" } ] }
+–
+-0.032%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX SRM Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.032" } ], "amount":[ { "@type": "MonetaryAmount", "name":"SRM Loan", "value":"1000", "currency":"SRM" } ] }
+–
+SRMT
+–
+–
+–
+0.2713%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX SRMT Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.2713" } ], "amount":[ { "@type": "MonetaryAmount", "name":"SRMT Loan", "value":"1000", "currency":"SRMT" } ] }
+SRN
+–
+–
+-2.4776%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX SRN Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-2.4776" } ], "amount":[ { "@type": "MonetaryAmount", "name":"SRN Loan", "value":"1000", "currency":"SRN" } ] }
+–
+STEP
+–
+–
+0.0928%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX STEP Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0928" } ], "amount":[ { "@type": "MonetaryAmount", "name":"STEP Loan", "value":"1000", "currency":"STEP" } ] }
+–
+STMX
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance STMX Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"STMX Loan", "value":"1000", "currency":"STMX" } ] }
+–
+0.0832%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX STMX Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0832" } ], "amount":[ { "@type": "MonetaryAmount", "name":"STMX Loan", "value":"1000", "currency":"STMX" } ] }
+–
+STORJ
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance STORJ Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"STORJ Loan", "value":"1000", "currency":"STORJ" } ] }
+–
+0.0032%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX STORJ Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0032" } ], "amount":[ { "@type": "MonetaryAmount", "name":"STORJ Loan", "value":"1000", "currency":"STORJ" } ] }
+–
+STX
+–
+–
+-0.1048%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX STX Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.1048" } ], "amount":[ { "@type": "MonetaryAmount", "name":"STX Loan", "value":"1000", "currency":"STX" } ] }
+–
+SUSHI
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance SUSHI Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"SUSHI Loan", "value":"1000", "currency":"SUSHI" } ] }
+0.00344824%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"dYdX SUSHI Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.00344824" } ], "amount":[ { "@type": "MonetaryAmount", "name":"SUSHI Loan", "value":"1000", "currency":"SUSHI" } ] }
+-0.012%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX SUSHI Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.012" } ], "amount":[ { "@type": "MonetaryAmount", "name":"SUSHI Loan", "value":"1000", "currency":"SUSHI" } ] }
+0.0735%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX SUSHI Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0735" } ], "amount":[ { "@type": "MonetaryAmount", "name":"SUSHI Loan", "value":"1000", "currency":"SUSHI" } ] }
+SXP
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance SXP Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"SXP Loan", "value":"1000", "currency":"SXP" } ] }
+–
+-0.0008%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX SXP Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0008" } ], "amount":[ { "@type": "MonetaryAmount", "name":"SXP Loan", "value":"1000", "currency":"SXP" } ] }
+–
+THETA
+0.003359%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance THETA Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.003359" } ], "amount":[ { "@type": "MonetaryAmount", "name":"THETA Loan", "value":"1000", "currency":"THETA" } ] }
+–
+0.0024%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX THETA Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0024" } ], "amount":[ { "@type": "MonetaryAmount", "name":"THETA Loan", "value":"1000", "currency":"THETA" } ] }
+–
+TLM
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance TLM Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"TLM Loan", "value":"1000", "currency":"TLM" } ] }
+–
+0.0272%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX TLM Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0272" } ], "amount":[ { "@type": "MonetaryAmount", "name":"TLM Loan", "value":"1000", "currency":"TLM" } ] }
+–
+TOMO
+0.005336%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance TOMO Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.005336" } ], "amount":[ { "@type": "MonetaryAmount", "name":"TOMO Loan", "value":"1000", "currency":"TOMO" } ] }
+–
+0.0144%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX TOMO Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0144" } ], "amount":[ { "@type": "MonetaryAmount", "name":"TOMO Loan", "value":"1000", "currency":"TOMO" } ] }
+–
+TONCO
+–
+–
+0.0128%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX TONCO Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0128" } ], "amount":[ { "@type": "MonetaryAmount", "name":"TONCO Loan", "value":"1000", "currency":"TONCO" } ] }
+–
+TONCOIN
+–
+–
+-0.0192%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX TONCOIN Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0192" } ], "amount":[ { "@type": "MonetaryAmount", "name":"TONCOIN Loan", "value":"1000", "currency":"TONCOIN" } ] }
+–
+TRB
+-0.026941%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance TRB Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.026941" } ], "amount":[ { "@type": "MonetaryAmount", "name":"TRB Loan", "value":"1000", "currency":"TRB" } ] }
+–
+–
+–
+TRU
+–
+–
+0.036%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX TRU Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.036" } ], "amount":[ { "@type": "MonetaryAmount", "name":"TRU Loan", "value":"1000", "currency":"TRU" } ] }
+–
+TRX
+0.0026%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance TRX Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0026" } ], "amount":[ { "@type": "MonetaryAmount", "name":"TRX Loan", "value":"1000", "currency":"TRX" } ] }
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"dYdX TRX Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"TRX Loan", "value":"1000", "currency":"TRX" } ] }
+-0.0256%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX TRX Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0256" } ], "amount":[ { "@type": "MonetaryAmount", "name":"TRX Loan", "value":"1000", "currency":"TRX" } ] }
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX TRX Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"TRX Loan", "value":"1000", "currency":"TRX" } ] }
+TRXT
+–
+–
+–
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX TRXT Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"TRXT Loan", "value":"1000", "currency":"TRXT" } ] }
+TRYB
+–
+–
+-0.0008%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX TRYB Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0008" } ], "amount":[ { "@type": "MonetaryAmount", "name":"TRYB Loan", "value":"1000", "currency":"TRYB" } ] }
+–
+TULIP
+–
+–
+-0.0296%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX TULIP Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0296" } ], "amount":[ { "@type": "MonetaryAmount", "name":"TULIP Loan", "value":"1000", "currency":"TULIP" } ] }
+–
+UMA
+–
+-0.75%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"dYdX UMA Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.75" } ], "amount":[ { "@type": "MonetaryAmount", "name":"UMA Loan", "value":"1000", "currency":"UMA" } ] }
+–
+–
+UNFI
+-0.018815%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance UNFI Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.018815" } ], "amount":[ { "@type": "MonetaryAmount", "name":"UNFI Loan", "value":"1000", "currency":"UNFI" } ] }
+–
+–
+–
+UNI
+0.008334%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance UNI Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.008334" } ], "amount":[ { "@type": "MonetaryAmount", "name":"UNI Loan", "value":"1000", "currency":"UNI" } ] }
+0.00213888%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"dYdX UNI Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.00213888" } ], "amount":[ { "@type": "MonetaryAmount", "name":"UNI Loan", "value":"1000", "currency":"UNI" } ] }
+-0.0016%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX UNI Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0016" } ], "amount":[ { "@type": "MonetaryAmount", "name":"UNI Loan", "value":"1000", "currency":"UNI" } ] }
+–
+UNISW
+–
+–
+0.1192%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX UNISW Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.1192" } ], "amount":[ { "@type": "MonetaryAmount", "name":"UNISW Loan", "value":"1000", "currency":"UNISW" } ] }
+–
+UNISWAP
+–
+–
+-0.0032%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX UNISWAP Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0032" } ], "amount":[ { "@type": "MonetaryAmount", "name":"UNISWAP Loan", "value":"1000", "currency":"UNISWAP" } ] }
+–
+UNIT
+–
+–
+–
+0.1742%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX UNIT Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.1742" } ], "amount":[ { "@type": "MonetaryAmount", "name":"UNIT Loan", "value":"1000", "currency":"UNIT" } ] }
+USDT
+–
+–
+-0.004%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX USDT Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.004" } ], "amount":[ { "@type": "MonetaryAmount", "name":"USDT Loan", "value":"1000", "currency":"USDT" } ] }
+–
+UST
+–
+–
+-0.2808%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX UST Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.2808" } ], "amount":[ { "@type": "MonetaryAmount", "name":"UST Loan", "value":"1000", "currency":"UST" } ] }
+–
+VET
+0.000509%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance VET Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.000509" } ], "amount":[ { "@type": "MonetaryAmount", "name":"VET Loan", "value":"1000", "currency":"VET" } ] }
+–
+-0.0056%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX VET Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0056" } ], "amount":[ { "@type": "MonetaryAmount", "name":"VET Loan", "value":"1000", "currency":"VET" } ] }
+–
+VETT
+–
+–
+–
+0.1575%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX VETT Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.1575" } ], "amount":[ { "@type": "MonetaryAmount", "name":"VETT Loan", "value":"1000", "currency":"VETT" } ] }
+WAVES
+-0.111174%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance WAVES Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.111174" } ], "amount":[ { "@type": "MonetaryAmount", "name":"WAVES Loan", "value":"1000", "currency":"WAVES" } ] }
+–
+-0.1176%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX WAVES Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.1176" } ], "amount":[ { "@type": "MonetaryAmount", "name":"WAVES Loan", "value":"1000", "currency":"WAVES" } ] }
+–
+WOO
+-0.002475%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance WOO Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.002475" } ], "amount":[ { "@type": "MonetaryAmount", "name":"WOO Loan", "value":"1000", "currency":"WOO" } ] }
+–
+–
+–
+XAUT
+–
+–
+0.0128%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX XAUT Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0128" } ], "amount":[ { "@type": "MonetaryAmount", "name":"XAUT Loan", "value":"1000", "currency":"XAUT" } ] }
+–
+XBTEU
+–
+–
+–
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX XBTEU Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"XBTEU Loan", "value":"1000", "currency":"XBTEU" } ] }
+XBTEUR
+–
+–
+–
+-0.0083%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX XBTEUR Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0083" } ], "amount":[ { "@type": "MonetaryAmount", "name":"XBTEUR Loan", "value":"1000", "currency":"XBTEUR" } ] }
+XBTT
+–
+–
+–
+0.001%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX XBTT Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.001" } ], "amount":[ { "@type": "MonetaryAmount", "name":"XBTT Loan", "value":"1000", "currency":"XBTT" } ] }
+XEM
+-0.659736%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance XEM Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.659736" } ], "amount":[ { "@type": "MonetaryAmount", "name":"XEM Loan", "value":"1000", "currency":"XEM" } ] }
+–
+-0.3984%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX XEM Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.3984" } ], "amount":[ { "@type": "MonetaryAmount", "name":"XEM Loan", "value":"1000", "currency":"XEM" } ] }
+–
+XLM
+-0.017195%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance XLM Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.017195" } ], "amount":[ { "@type": "MonetaryAmount", "name":"XLM Loan", "value":"1000", "currency":"XLM" } ] }
+0.00942648%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"dYdX XLM Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.00942648" } ], "amount":[ { "@type": "MonetaryAmount", "name":"XLM Loan", "value":"1000", "currency":"XLM" } ] }
+-0.0024%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX XLM Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0024" } ], "amount":[ { "@type": "MonetaryAmount", "name":"XLM Loan", "value":"1000", "currency":"XLM" } ] }
+–
+XLMT
+–
+–
+–
+0.0887%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX XLMT Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0887" } ], "amount":[ { "@type": "MonetaryAmount", "name":"XLMT Loan", "value":"1000", "currency":"XLMT" } ] }
+XMR
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance XMR Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"XMR Loan", "value":"1000", "currency":"XMR" } ] }
+0.00961048%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"dYdX XMR Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.00961048" } ], "amount":[ { "@type": "MonetaryAmount", "name":"XMR Loan", "value":"1000", "currency":"XMR" } ] }
+-0.0208%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX XMR Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0208" } ], "amount":[ { "@type": "MonetaryAmount", "name":"XMR Loan", "value":"1000", "currency":"XMR" } ] }
+–
+XRPBU
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance XRPBU Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"XRPBU Loan", "value":"1000", "currency":"XRPBU" } ] }
+–
+–
+–
+XRPBUSD
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance XRPBUSD Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"XRPBUSD Loan", "value":"1000", "currency":"XRPBUSD" } ] }
+–
+–
+–
+XRPT
+–
+–
+–
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"BitMEX XRPT Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"XRPT Loan", "value":"1000", "currency":"XRPT" } ] }
+YFI
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance YFI Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"YFI Loan", "value":"1000", "currency":"YFI" } ] }
+0.0039188%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"dYdX YFI Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0039188" } ], "amount":[ { "@type": "MonetaryAmount", "name":"YFI Loan", "value":"1000", "currency":"YFI" } ] }
+-0.0128%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX YFI Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0128" } ], "amount":[ { "@type": "MonetaryAmount", "name":"YFI Loan", "value":"1000", "currency":"YFI" } ] }
+–
+YFII
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance YFII Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"YFII Loan", "value":"1000", "currency":"YFII" } ] }
+–
+-0.048%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX YFII Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.048" } ], "amount":[ { "@type": "MonetaryAmount", "name":"YFII Loan", "value":"1000", "currency":"YFII" } ] }
+–
+ZEC
+-0.015091%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance ZEC Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.015091" } ], "amount":[ { "@type": "MonetaryAmount", "name":"ZEC Loan", "value":"1000", "currency":"ZEC" } ] }
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"dYdX ZEC Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"ZEC Loan", "value":"1000", "currency":"ZEC" } ] }
+0.0048%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX ZEC Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0048" } ], "amount":[ { "@type": "MonetaryAmount", "name":"ZEC Loan", "value":"1000", "currency":"ZEC" } ] }
+–
+ZEN
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance ZEN Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"ZEN Loan", "value":"1000", "currency":"ZEN" } ] }
+–
+–
+–
+ZIL
+0.01%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance ZIL Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.01" } ], "amount":[ { "@type": "MonetaryAmount", "name":"ZIL Loan", "value":"1000", "currency":"ZIL" } ] }
+–
+0.0024%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX ZIL Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.0024" } ], "amount":[ { "@type": "MonetaryAmount", "name":"ZIL Loan", "value":"1000", "currency":"ZIL" } ] }
+–
+ZRX
+-0.018693%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"Binance ZRX Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.018693" } ], "amount":[ { "@type": "MonetaryAmount", "name":"ZRX Loan", "value":"1000", "currency":"ZRX" } ] }
+0.00774016%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"dYdX ZRX Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"0.00774016" } ], "amount":[ { "@type": "MonetaryAmount", "name":"ZRX Loan", "value":"1000", "currency":"ZRX" } ] }
+-0.0152%
+{ "@context":"http://schema.org", "@type":"LoanOrCredit", "name":"FTX ZRX Loan", "loanTerm":{ "@type":"QuantitativeValue", "value":"365", "unitCode": "DAY" }, "annualPercentageRate":[ { "@type":"QuantitativeValue", "name": "variable interest rates", "value":"-0.0152" } ], "amount":[ { "@type": "MonetaryAmount", "name":"ZRX Loan", "value":"1000", "currency":"ZRX" } ] }
+–
